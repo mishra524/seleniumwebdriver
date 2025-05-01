@@ -21,10 +21,10 @@ public class TestCase_TC001 {
 		
 		if (expTitle.equals(actTitle))
 		{
-			System.out.println("Test PASS");
+			System.out.println("This is a Passed Test");
 		}
 		else
-			System.out.println("Test FAIL");
+			System.out.println("This is a Failed Test");
 
 	
 	driver.close();
